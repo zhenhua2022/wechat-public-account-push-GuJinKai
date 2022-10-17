@@ -35,7 +35,7 @@ const USER_CONFIG = {
       ],
       courseSchedule: {
         // 课表
-        courses: {
+        courses: {[
             // 例子，周一的课表
             [
               '08:00-09:35 高等数学',
@@ -70,7 +70,7 @@ const USER_CONFIG = {
             [
               '08:00-09:35 高等数学',
               '09:50-11:25 高等物理'
-            ]
+            ]]
         }
       },
     },
