@@ -24,11 +24,13 @@ const USER_CONFIG = {
       //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
       id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'ox0zTzl3176yyFfX74n3KUGIWMM2iY43X1ysNkark_E',
+      useTemplateId: '5zlGj7BhZBR6z0kxuMfpL9jJdhbZbD2FQewtWag_hPY',
+      
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-22',
       horoscopeDateType: '今日',
       openUrl: 'https://s.weibo.com/top/summary?cate=realtimehot',
+      
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
@@ -39,7 +41,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: 'z7kdpfT5oiE2IeeOtBR9Nw9f7KvzlahRq7WmofLuRgs',
+  CALLBACK_TEMPLATE_ID: '7DZ0vrT5bcpHHKH3vntpRymlFEnRIxJtb-Vr2-zzTgs',
 
   CALLBACK_USERS: [
     {
