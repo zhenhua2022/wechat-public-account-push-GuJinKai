@@ -24,7 +24,7 @@ const USER_CONFIG = {
       //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
       id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'uoUygzOBpU9qO4vTXFDzxqBw1w4imKhOc6xAgLxycYM',
+      useTemplateId: 'GedYOjxOBPF7VjDYwYvrVI-U4d2kPop_zTuGbH3aLg8',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-22',
@@ -40,16 +40,10 @@ const USER_CONFIG = {
       courseSchedule:[
         // 周一
         [
-          '08:00-09:35 高等数学1',
-          '08:00-09:35 高等数学2',
-          '08:00-09:35 高等数学3',
-          '08:00-09:35 高等数学4',
-          '08:00-09:35 高等数学5',
-          '08:00-09:35 高等数学6',
-          '08:00-09:35 高等数学7',
-          '08:00-09:35 高等数学8',
-          '08:00-09:35 高等数学9',
-          '09:50-11:25 高等物理'
+          '08:00-10:10 有机化学(2) 理综楼405',
+          '10:30-12:00 大学英语Ⅲ 理综楼405',
+          '14:30-16:00 物理化学(1) 理综楼204',
+          '19:30-21:50 大学物理实验A 数学楼403',
         ],
         // 周二
         [
