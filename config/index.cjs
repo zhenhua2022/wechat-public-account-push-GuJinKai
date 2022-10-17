@@ -24,7 +24,7 @@ const USER_CONFIG = {
       //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
       id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'u509Ik1Bxh9MWy-O1YCfvu7Kkk7bNGQK88VxVk5ueJ8',
+      useTemplateId: 'zwzCpMZBexXRznS5o9iekAE81Rb1lIRH8uDzxqlL57Y',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-22',
@@ -47,7 +47,31 @@ const USER_CONFIG = {
         [
           '08:00-09:35 高等数学',
           '09:50-11:25 高等物理'
+        ],
+        // 周三
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        // 周四
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        // 周五
+        [
+          '08:00-09:35 高等数学',
+          '09:50-11:25 高等物理'
+        ],
+        // 周六
+        [
+          '呀嘿，没课呦，快去找哥哥贴贴'
+        ],
+        // 周日
+        [
+          '呀嘿，没课呦，快去找哥哥亲亲'
         ]
+        
       ]
       
     }
