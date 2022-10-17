@@ -16,49 +16,6 @@ const USER_CONFIG = {
   PROVINCE: '广西',
   CITY: '桂林',
   
-  SWITCH: {
-    /** 每日天气 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    weather: true,
-
-    /** 节假日 */
-    // 下一休息日综合提醒, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    holidaytts: false,
-
-    /** 每日N句 */
-    // 金山每日一句, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    CIBA: false,
-    
-    // 每日一言, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    oneTalk: false,
-    
-    // 土味情话(彩虹屁), 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    earthyLoveWords: true,
-    
-    // 朋友圈文案, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    momentCopyrighting: false,
-    
-    // 毒鸡汤, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poisonChickenSoup: false,
-    
-    // 古诗古文, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    poetry: false,
-
-    /** 星座运势 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    horoscope: true,
-  
-    /** 生日消息和节日消息 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    birthdayMessage: false,
-  
-    /** 学生课表 */
-    // 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
-    courseSchedule: true,
-  },
-  
-  IS_SHOW_COLOR: true,
-  
   USERS: [
     {
       // 想要发送的人的名字
@@ -67,7 +24,7 @@ const USER_CONFIG = {
       //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
       id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '4ug8g49IC1k0SQx3Fk3O3CRD8-PLoiPxnCxiMMKZ-Wc',
+      useTemplateId: 'SljXv4N83oLDu0e5CaNd0gG8km1lW1iaYCM7xEBu8WE',
       
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '03-22',
