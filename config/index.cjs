@@ -23,8 +23,8 @@ const USER_CONFIG = {
       name: '罗荣荣',
       
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//妹
-      id: 'oguWs5811jyNHIcSlXiJ-COe2eg8',
+      id: 'oguWs5zQnYzDd8dazSof4Mm6K1Ac',//妹
+      //id: 'oguWs5811jyNHIcSlXiJ-COe2eg8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'OJ0DPJqk3YIsSNMXRKdKUYvtp2qbCCUo9E0K-DsbPH0',
       
