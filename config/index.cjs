@@ -13,17 +13,21 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '0141c207525b78f0d0c15da1def6c950',
 
-  PROVINCE: '广西',
-  CITY: '桂林',
+  //PROVINCE: '广西',
+  //CITY: '桂林',
   
   USERS: [
     //ma
     {
       // 想要发送的人的名字
       name: '憨憨夏',
+      
+      PROVINCE: '广西',
+      CITY: '桂林',
+      
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
-      //id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
+      //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//user
+      id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'gwuMcpk4XRiJ7H854z9h-_-mZ3CjP6n_3OZM7LkTYGs',
       
@@ -93,8 +97,12 @@ const USER_CONFIG = {
     {
       // 想要发送的人的名字
       name: '罗荣荣',
+      
+      PROVINCE: '贵州',
+      CITY: '贵阳',
+      
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
+      //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//妹
       id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: 'AKeeHFHTiHP70tKkccw7mgb78LFLPifoQ-4hcSwd82M',
