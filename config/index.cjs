@@ -13,17 +13,14 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '0141c207525b78f0d0c15da1def6c950',
 
-  //PROVINCE: '广西',
-  //CITY: '桂林',
+  PROVINCE: '广西',
+  CITY: '桂林',
   
   USERS: [
     //ma
     {
       // 想要发送的人的名字
       name: '憨憨夏',
-      
-      PROVINCE: '广西',
-      CITY: '桂林',
       
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//user
@@ -92,14 +89,13 @@ const USER_CONFIG = {
       ]
     },
     //ma
+     PROVINCE: '贵州',
+     CITY: '贵阳', 
     
     //顾凯
     {
       // 想要发送的人的名字
       name: '罗荣荣',
-      
-      PROVINCE: '贵州',
-      CITY: '贵阳',
       
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//妹
