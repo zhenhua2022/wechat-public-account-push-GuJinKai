@@ -17,6 +17,7 @@ const USER_CONFIG = {
   CITY: '桂林',
   
   USERS: [
+    //ma
     {
       // 想要发送的人的名字
       name: '憨憨夏',
