@@ -91,6 +91,25 @@ const USER_CONFIG = {
     
     //顾凯
     {
+      // 想要发送的人的名字
+      name: '罗荣荣',
+      // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
+      //id: 'oNKGd5x4UCYEQ7YoiY0rw4dPAN-c',//夏
+      id: 'oNKGd569zIxI6odnyJDSpgrjqgVo',
+      // 使用微信测试号：你想对他发送的模板消息的模板ID
+      useTemplateId: 'gwuMcpk4XRiJ7H854z9h-_-mZ3CjP6n_3OZM7LkTYGs',
+      
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {
+          type: '*生日', name: '妹妹', year: '1998', date: '04-27',
+        },
+        // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
+        {
+          type: '生日', name: '哥哥', year: '1997', date: '12-20',
+        },
+      ],
+      
     }
     //顾凯
     
